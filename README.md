@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjafell
 - 👀 I’m interested in UI/UX design.
-- 🌱 I’m currently studying human system engineering at ASU.
+- 🌱 I’m currently studying human systems engineering at ASU.
 
 <!---
 anjafell/anjafell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
